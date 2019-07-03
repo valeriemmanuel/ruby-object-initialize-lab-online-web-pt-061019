@@ -4,6 +4,7 @@ class Dog
     @name=name
     if breed=false
       puts "Mutt"
+    end
   end
  end
   
